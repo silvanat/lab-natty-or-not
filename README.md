@@ -13,4 +13,4 @@ Este podcast de 4 minutos oferece uma visão rápida e profunda sobre o que é o
 
 ## 🚀 Resultados
 O episódio é uma informaçÃo sobre este evento que ocorre algumas vezes ao ano, para quem busca compreensão sobre o assunto.
-Link para o podcast aqui. -> EM BREVE
+Link para o podcast  <a href="https://share.descript.com/view/uNcwLReSpY2" target="_blank">aqui</a>.

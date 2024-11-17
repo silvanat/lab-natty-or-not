@@ -15,4 +15,4 @@ Este podcast de 3 minutos oferece uma visão rápida e profunda sobre o que é o
 O episódio é uma informação sobre este evento que ocorre algumas vezes ao ano, para quem busca compreensão sobre o assunto.
 Link para o podcast [aqui](https://share.descript.com/view/uNcwLReSpY2).
 
-[URL podcast:] (https://share.descript.com/view/uNcwLReSpY2)
+[URL podcast:](https://share.descript.com/view/uNcwLReSpY2)
